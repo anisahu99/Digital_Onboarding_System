@@ -52,7 +52,7 @@ This project is a **Digital Guest Onboarding System** where admins can manage ho
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/RamnarayanMandal/-Digital-Guest-Onboarding-System.git
+   https://github.com/anisahu99/Digital_Onboarding_System.git
    ```
 
 2. **Navigate to the project directory**:
@@ -82,17 +82,11 @@ This project is a **Digital Guest Onboarding System** where admins can manage ho
 ## Admin Login Credentials
 
 - **Main Admin**:
-  - **Username**: ram@1234
+  - **Username**: admingupta@1234
   - **Password**: 12345678
 - **Guest Admin**:
-  - **Username**: anish@gmail.com
+  - **Username**: guestgupta@gmail.com
   - **Password**: 12345678
-
-## Live Demo
-
-You can view the live demo of the Digital Guest Onboarding System here:
-
-[Live Demo Link](https://digital-guest-onboarding-system-1.onrender.com/)
 
 ## Conclusion
 
